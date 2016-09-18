@@ -7,6 +7,5 @@ public class DoctorSevice {
     public DoctorSevice(){
         new Patient("Adam","Bania",22);
         new Patient("Adam","Michal",34);
-        new Patient("Marek","Kowalski",21);
     }
 }
