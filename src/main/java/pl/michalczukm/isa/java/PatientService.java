@@ -13,9 +13,13 @@ public class PatientService {
         patients.add(new Patient("Adam", "Nowak",34));
         patients.add(new Patient("Piotr", "Szulc",43));
         patients.add(new Patient("Michalina","Budzek",21));
+        patients.add(new Patient("Michalina","Budzek",21));
+        patients.add(new Patient("Michalina","Budzek",21));
+        patients.add(new Patient("Michalina","Budzek",21));
         patients.add(new Patient("Michalina","Bodzowska",23));
     }
 
+     //hoyghjouyiuyygh
     public List<Patient> getAll() {
         return patients;
     }
